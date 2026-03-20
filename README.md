@@ -46,7 +46,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://github.com/Rathinakumar907"><img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"></a>
+  <a href="rathinakumars047@gmail.com"></a>
 </p>
 
 ---
